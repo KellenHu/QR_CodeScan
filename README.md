@@ -8,3 +8,4 @@ Android的二维码生成demo以及代码说明，包含二维码扫描
 二维码模块化
 addmodele
 
+写入系统
