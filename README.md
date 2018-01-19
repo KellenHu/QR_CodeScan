@@ -10,4 +10,6 @@ addmodele
 >>ScanQRCode
 
 
-Eclipse版本的哦，API22
+Eclipse版本的哦，API23
+2018 01 19 update
+
